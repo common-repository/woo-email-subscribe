@@ -1,0 +1,42 @@
+=== Woo Email Subscribe ===
+Contributors: navnit mishra,thehtmlcoder
+Donate link: https://thehtmlcoder.net/donate/
+Tags: woocommerce, woocommerce email Subscribe, Payment Method, Order Amount, Discount
+Requires at least: 4.4
+Tested up to: 5.2
+Stable tag: 1.1
+Requires PHP: 5.2
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+== Description ==
+* This plugin operated in WooCommerce offers immediate resolution if you subscribe to your website’s email. The operations of discount amount can be handled easily at the back-end, and are not a cumbersome task to perform.A bundle of discount advantages is offered by the plugin for your website. Step forward and let your website get enhanced through this feature!
+
+== Installation ==
+
+= Minimum Requirements =
+* PHP version 5.2.4 or greater (PHP 5.6 or greater is recommended)
+* MySQL version 5.0 or greater (MySQL 5.6 or greater is recommended)
+* WooCommerce 3.0 or greater
+* Woo email Subscribe plugin
+
+= Manual installation =
+1. Upload the plugin files to the '/wp-content/plugins/woo-email-subscribe' directory, or install the plugin through the WordPress plugins screen directly.
+2. Activate the plugin through the \'Plugins\' screen in WordPress.
+
+== Frequently Asked Questions ==
+* Do you have questions or issues with Woo BACS Receipts? Use these support channels and get prompt assistance!
+* For New Question, please ask
+
+== Screenshots ==
+1. Front layout
+1. backend Layout
+
+== Changelog ==
+* For more information,please readfull description
+
+= 1.1 =
+* Adding the functionality for non Login user and with Browser based storage.
+
+= 1.0=
+* initial  upload.
